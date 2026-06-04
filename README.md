@@ -29,5 +29,5 @@ An Excel-based Sales & Customer Analytics Dashboard designed to analyze sales pe
 To create an interactive business dashboard for analyzing sales data and generating actionable insights.
 
 ## Author
-Yash Singh  
+Abhishek Singh  
 Aspiring Data Analyst
